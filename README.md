@@ -1,2 +1,2 @@
-# Php_Project_Dm
-simple product management web application
+# DM_Project_CE207_CE212
+Simple Product Management Web Application
